@@ -1,7 +1,8 @@
-# react-native-autoscroll-flatlist
+# react-native-autoscroll-flatlist-updated-deps
 
-[![react-native-autoscroll-flatlist is released under the MIT license.](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/chubillkelvin/react-native-autoscroll-flatlist/blob/master/LICENSE)
-[![react-native-autoscroll-flatlist's current npm package version](https://badge.fury.io/js/react-native-autoscroll-flatlist.svg)](https://www.npmjs.org/package/react-native-autoscroll-flatlist)
+> A quick fork of [react-native-autoscroll-flatlist](https://github.com/chubillkelvin/react-native-autoscroll-flatlist) with updated dependencies for React Native `0.67.5`
+
+[![react-native-autoscroll-flatlist-updated-deps is released under the MIT license.](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/chubillkelvin/react-native-autoscroll-flatlist/blob/master/LICENSE)
 
 An enhanced version of the original react-native `<FlatList>` component with built-in support for both Javascript and Typescript usage.
 
@@ -42,13 +43,13 @@ Auto-scroll is disabled when scrolled away from end of list. There are 3 ways to
 # Installation
 
 ```
-npm install --save react-native-autoscroll-flatlist
+npm install --save react-native-autoscroll-flatlist-updated-deps
 ```
 
 or
 
 ```
-yarn add react-native-autoscroll-flatlist
+yarn add react-native-autoscroll-flatlist-updated-deps
 ```
 
 # Example Usage
@@ -56,7 +57,7 @@ yarn add react-native-autoscroll-flatlist
 Import the component with:
 
 ```
-import {AutoScrollFlatList} from "react-native-autoscroll-flatlist";
+import {AutoScrollFlatList} from "react-native-autoscroll-flatlist-updated-deps";
 ```
 
 and simply use it like an ordinary `<FlatList>`, for example:

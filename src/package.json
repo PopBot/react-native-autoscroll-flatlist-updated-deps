@@ -1,6 +1,6 @@
 {
   "name": "react-native-autoscroll-flatlist-updated-deps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An enhanced React Native FlatList component to provide auto-scrolling functionality",
   "author": "PopBot",
   "license": "MIT",
